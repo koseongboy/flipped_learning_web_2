@@ -1,0 +1,102 @@
+.bulletin{
+    float : right;
+    width : 70%;
+}
+#watch{
+    float : right;
+    line-height: 200%;
+    text-align: center;
+    width : 40%;
+    height : auto;
+    padding : 5%;
+}
+#watch li{
+    padding-inline-start: 0;
+    list-style-type: none;
+}
+#watch a{
+    color : #000000;
+}
+#enroll {
+    float: right;
+    line-height: 200%;
+    text-align: center;
+    
+    width : 40%;
+    height : 20%;
+    padding : 5%;
+    
+}
+#enrollcancel{
+    clear:both;
+    line-height: 200%;
+    text-align: center;
+    margin : 5% 5% 0 23.3%;
+    width : 40%;
+    height : 20%;
+    padding : 5%;
+}
+label{
+    width : 20%;
+}
+#login{
+    float : right;
+    width : 20%;
+    height : 25%;
+    line-height: 190%;
+}
+#login a{
+    color : #000000;
+}
+#notice{
+
+    float : right;
+    width : 70%;
+    height : 60%;
+    
+}
+#notice a{
+    color : #000000;
+}
+#noticelist{
+  
+   list-style-type: disc;
+   line-height: 200%;
+}
+#usage {
+   
+   clear: both;
+   line-height: 190%;
+}
+#play{
+    width : 70%;
+    float : right;
+    text-align : center;
+    
+}
+iframe {
+    width : 100%;
+}
+#reader {
+    float : right;
+    width : 70%;
+}
+#register {
+    float : right;
+    width : 100%;
+    text-align: center;
+}
+.admin {
+    width : 100%;
+    text-align : center;
+    
+}
+#search{
+    width : 70%;
+    float : right;
+}
+#submit{
+    width : 70%;
+    float : right;
+    text-align: center;
+}
